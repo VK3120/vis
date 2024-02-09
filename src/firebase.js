@@ -7,12 +7,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "YOUR FIREBASE API KEY",
-  authDomain: "YOUR FIREBASE AUTHDOMAIN",
-  projectId: "YOUR FIREBASE PROJECTID",
-  storageBucket: "YOUR FIREBASE STORAGE BUCKET",
-  messagingSenderId: "YOUR FIREBASE MESSAGESENDER ID",
-  appId: "YOUR FIREBASE APPID"
+  apiKey: "AIzaSyDW8AlKqetB-B9XxLji1r83rJDtsdApOpk",
+  authDomain: "visishta-e282c.firebaseapp.com",
+  projectId: "visishta-e282c",
+  storageBucket: "visishta-e282c.appspot.com",
+  messagingSenderId: "239912210387",
+  appId: "1:239912210387:web:8e28fee643df60f55ae926"
 };
 
 // Initialize Firebase
